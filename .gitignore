@@ -1,0 +1,5 @@
+node_modules
+# secrets: database password, JWT keys, R2 and SMTP credentials
+.env
+.env.*
+!.env.example
